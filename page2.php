@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Anashe</title>
+        <title>Anashe - Egenia's Daughter</title>
         <meta name="description" contents="Just a test website for learning html, css and php">
         <link rel="stylesheet" href="css/style.css" type="text/css">
     </head>
