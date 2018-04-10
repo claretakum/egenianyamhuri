@@ -20,7 +20,7 @@
             The third page concludes on about Anashe my lovely daughter.
         </div>
         <footer>
-            Contact us at info@anashe.com
+            Contact us at egenia@anashe.com
         </footer>
     </body>
 </html>
